@@ -1,0 +1,4 @@
+_background_
+Bone
+Osteoclast_Srf
+Osteoid
