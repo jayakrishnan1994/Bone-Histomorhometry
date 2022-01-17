@@ -17,3 +17,21 @@ The first step in model building process is generating the labels for the images
 # Results:
 
 The model is tested on 20 images with 4 classes. The performance of the model can be estimated using accuracy and dice coefficient. While accuracy is easy to understand, it is not the best metric. When our classes are extremely imbalanced the accuracy could be really high whereas your model is returning a completely useless prediction. While on the other hand Dice coefficient  is better metric, simply put, the Dice Coefficient is 2 * the Area of Overlap divided by the total number of pixels in both images. The Dice coefficient is very similar to the IoU ranging from 0 to 1, with 1 signifying the greatest similarity between predicted and truth[14]. 
+
+
+# References:
+
+1.Faugere HMM. Atlas of Mineralized Bone Histology: Karger; 1986.
+2.Malluche HH, Mawad H, Monier-Faugere MC. Bone biopsy in patients with osteoporosis. Curr Osteoporos Rep 2007;5:146-52.
+3.Coroller T P, Grossmann P, Hou Y, et al. CT-based radiomic signature predicts distant metastasis in lung adenocarcinoma. Radiotherapy & Oncology, 2015, 114(3):345-350.
+4. Aerts H J W L, Velazquez E R, Leijenaar R T H, et al. Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach. Nature Communications, 2014, 5:4006.
+5.Giger M L, Karssemeijer N, Schnabel J A. Breast image analysis for risk assessment, detection, diagnosis, and treatment of cancer. Annual Review of Biomedical Engineering, 2013, 15(1):327-357.
+6.Dou Q, Chen H, Yu L, et al. Automatic Detection of Cerebral Microbleeds from MR Images via 3D Convolutional Neural Networks. IEEE Transactions on Medical Imaging, 2016, 35(5):1182-1195.
+7. Anthimopoulos M, Christodoulidis S, Ebner L, et al. Lung Pattern Classification for Interstitial Lung Diseases Using a Deep Convolutional Neural Network. IEEE Transactions on Medical Imaging, 2016, 35(5):1207-1216.
+8. Xu J, Xiang L, Liu Q, et al. Stacked Sparse Autoencoder (SSAE) for Nuclei Detection on Breast Cancer Histopathology Images. IEEE Trans Med Imaging, 2016, 35(1):119-130.
+9.Dou Q, Chen H, Yu L, et al. Automatic Detection of Cerebral Microbleeds from MR Images via 3D Convolutional Neural Networks. IEEE Transactions on Medical Imaging, 2016, 35(5):1182-1195.
+10.Ronneberger O, Fischer P, Brox T. U-Net: Convolutional Networks for Biomedical Image Segmentation. International Conference on Medical Image Computing and Computer-Assisted Intervention. Springer, Cham, 2015:234-241.
+11.Han Y, Ye J C. Framing U-Net via Deep Convolutional Framelets: Application to Sparse-View CT. IEEE Transactions on Medical Imaging, 2018, 37(6):1418.
+12.https://towardsdatascience.com/understanding-semantic-segmentation-with-unet-6be4f42d4b47
+13.Olaf Ronneberger, Philipp Fischer, and Thomas Brox U-Net: Convolutional Networks for Biomedical Image Segmentation
+14.https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2
