@@ -21,17 +21,17 @@ The model is tested on 20 images with 4 classes. The performance of the model ca
 
 # References:
 
-1.Faugere HMM. Atlas of Mineralized Bone Histology: Karger; 1986.
+1. Faugere HMM. Atlas of Mineralized Bone Histology: Karger; 1986.
 
-2.Malluche HH, Mawad H, Monier-Faugere MC. Bone biopsy in patients with osteoporosis. Curr Osteoporos Rep 2007;5:146-52.
+2. Malluche HH, Mawad H, Monier-Faugere MC. Bone biopsy in patients with osteoporosis. Curr Osteoporos Rep 2007;5:146-52.
 
-3.Coroller T P, Grossmann P, Hou Y, et al. CT-based radiomic signature predicts distant metastasis in lung adenocarcinoma. Radiotherapy & Oncology, 2015, 114(3):345-350.
+3. Coroller T P, Grossmann P, Hou Y, et al. CT-based radiomic signature predicts distant metastasis in lung adenocarcinoma. Radiotherapy & Oncology, 2015, 114(3):345-350.
 
 4. Aerts H J W L, Velazquez E R, Leijenaar R T H, et al. Decoding tumour phenotype by noninvasive imaging using a quantitative radiomics approach. Nature Communications, 2014, 4006.
 
-5.Giger M L, Karssemeijer N, Schnabel J A. Breast image analysis for risk assessment, detection, diagnosis, and treatment of cancer. Annual Review of Biomedical Engineering, 2013, 15(1):327-357.
+5. Giger M L, Karssemeijer N, Schnabel J A. Breast image analysis for risk assessment, detection, diagnosis, and treatment of cancer. Annual Review of Biomedical Engineering, 2013, 15(1):327-357.
 
-6.Dou Q, Chen H, Yu L, et al. Automatic Detection of Cerebral Microbleeds from MR Images via 3D Convolutional Neural Networks. IEEE Transactions on Medical Imaging, 2016, 35(5):1182-1195.
+6. Dou Q, Chen H, Yu L, et al. Automatic Detection of Cerebral Microbleeds from MR Images via 3D Convolutional Neural Networks. IEEE Transactions on Medical Imaging, 2016, 35(5):1182-1195.
 
 7. Anthimopoulos M, Christodoulidis S, Ebner L, et al. Lung Pattern Classification for Interstitial Lung Diseases Using a Deep Convolutional Neural Network. IEEE Transactions on Medical Imaging, 2016, 35(5):1207-1216.
 
