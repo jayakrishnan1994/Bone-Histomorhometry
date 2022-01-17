@@ -48,3 +48,4 @@ The model is tested on 20 images with 4 classes. The performance of the model ca
 13. Olaf Ronneberger, Philipp Fischer, and Thomas Brox U-Net: Convolutional Networks for Biomedical Image Segmentation
 
 14. https://towardsdatascience.com/metrics-to-evaluate-your-semantic-segmentation-model-6bcb99639aa2
+ 
